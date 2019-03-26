@@ -36,9 +36,7 @@ Multi-Purposful instant messanger, contact anyone on your campus, schedule organ
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* 
-* 
+* Tip on how to use the app
 
 ### 2. Screen Archetypes
 
@@ -67,7 +65,7 @@ Multi-Purposful instant messanger, contact anyone on your campus, schedule organ
 * Forced Log-in
     * Account creation is no log in is avaliable 
 * Messaging Screen
-    * Jumps to chat, allowing user to access previous chats or connect other users
+    * Jumps to chat, allowing user to access previous chats or contanct another user
     * If  user in a group chat addition capabilities will be avaliable
 * Profile 
     * Text field to be modified. 
@@ -75,19 +73,4 @@ Multi-Purposful instant messanger, contact anyone on your campus, schedule organ
     * Toggle settings
     
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
-<img src="http://tinypic.com/r/15dwcjs/9" width=600>
-
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
-
-## Schema 
-[This section will be completed in Unit 9]
-### Models
-[Add table of models]
-### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
-
+<img src="https://ibb.co/4pxsRYD" width=600>
