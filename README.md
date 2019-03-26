@@ -73,4 +73,4 @@ Multi-Purposful instant messanger, contact anyone on your campus, schedule organ
     * Toggle settings
     
 ## Wireframes
-<img src="https://ibb.co/4pxsRYD" width=600>
+<a href="https://ibb.co/4pxsRYD"><img src="https://i.ibb.co/kXF329r/IMG-3060.jpg" alt="IMG-3060" border="0"></a>
