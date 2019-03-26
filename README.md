@@ -67,7 +67,7 @@ Multi-Purposful instant messanger, contact anyone on your campus, schedule organ
 * Forced Log-in
     * Account creation is no log in is avaliable 
 * Messaging Screen
-    * Jumps to chat, allowing user to access previous chats or contanct another user
+    * Jumps to chat, allowing user to access previous chats or connect other users
     * If  user in a group chat addition capabilities will be avaliable
 * Profile 
     * Text field to be modified. 
