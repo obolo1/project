@@ -76,7 +76,7 @@ Multi-Purposful instant messanger, contact anyone on your campus, schedule organ
     
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="http://tinypic.com/r/15dwcjs/9" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
