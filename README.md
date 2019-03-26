@@ -45,7 +45,6 @@ Multi-Purposful instant messanger, contact anyone on your campus, schedule organ
 * Login
 * Register - Users signs up or logs into their account 
    * Upon Download/Reopening of the application, the user is prompted to log in to gain access to their profile information to be properly matched with another person.
-   * ...
 * Messaging Screen - Chat for users to communicate
     * Directory that allows you contant anyone on campus using the app or default place in a general chat based on major 
 * Profile Screen
@@ -56,14 +55,10 @@ Multi-Purposful instant messanger, contact anyone on your campus, schedule organ
     * Allow users to review and utilitze different tatics to take on any project 
 * Settings Screen
    * Lets people change language, and app notification settings. 
-* [list second screen here]
-   * [list associated required story here]
-   * ...
-
+   
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
-
 * Profile 
 * Group Chat options 
 * Settings 
