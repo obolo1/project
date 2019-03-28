@@ -74,3 +74,39 @@ Multi-Purposful instant messanger, contact anyone on your campus, schedule organ
     
 ## Wireframes
 <a href="https://ibb.co/4pxsRYD"><img src="https://i.ibb.co/kXF329r/IMG-3060.jpg" alt="IMG-3060" border="0"></a>
+
+## Schema 
+### Models
+#### Post
+
+   | Property      | Type     | Description |
+   | ------------- | -------- | ------------|
+   | ChatLabel     | String   | Conversation idenifier |
+   | authorImage   | Pointer to User| image author |
+   | authorLabel   | String   | name of the author |
+   | User Text     | String   | message response by author |
+   | createdAt     | DateTime | date when post is created (default field) |
+### Networking
+#### List of network request by screen 
+    - Home Directory Search
+      - (Read/GET) User Searching Query
+        ''' swift
+        let query = PFQuery (className:"Directory")
+        '''
+      - Default Chat
+        -(Read/GET) Default Chat based on major
+          ''' swift
+          let query = PFQuery(className:"Major")
+          '''
+      - Chatroom Search
+        -(Read/GET) Group Chat look up
+          '''swift
+          Let query = PFQuery(className:"ChatLabel")
+          '''
+#### Existing API Endpoints
+##### Parse
+- Base Url - [https://parseplatform.org/Parse-SDK-iOS-OSX/api/] (https://parseplatform.org/Parse-SDK-iOS-OSX/api/)
+
+          
+       
+   
