@@ -86,6 +86,11 @@ Multi-Purposful instant messanger, contact anyone on your campus, schedule organ
    | authorLabel   | String   | name of the author |
    | User Text     | String   | message response by author |
    | createdAt     | DateTime | date when post is created (default field) |
+   | loginLabel    | String   | login page label |
+   | signUpLabel   | String   | signup page label |
+   | menuLabel     | String   | menu page label |
+   
+   
 ### Networking
 #### List of network request by screen 
     - Home Directory Search
